@@ -35,8 +35,6 @@ public class Application {
         System.out.println("is 10 + 0 = 10?");
         isValidAnswer = ((nummer1 + nummer2) == 10);
         System.out.println("het antwoord is " + isValidAnswer);
-
-
     }
 
 }
