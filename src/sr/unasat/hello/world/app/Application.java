@@ -4,7 +4,7 @@ public class Application {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        //declaring a variable of aanmaken van een variable
+        //declaring a variable of aanmaken/definieren van een variable
         boolean isValidAnswer;
 
         System.out.println("is 10 + 0 = 11?");
